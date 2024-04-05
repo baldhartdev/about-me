@@ -5,7 +5,7 @@
 <h1> ❔ About </h1>
   <p> 🏷️ My name is Murat </p>
   <p> :nerd_face: I'm a js,py,lua developer </p>
-  <p> :waving_white_flag: I live in Turkey </p>
+  <p> 🏳️ I live in Turkey </p>
   <p> 🖥️ Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
 
 
